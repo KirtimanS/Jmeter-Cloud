@@ -15,7 +15,7 @@ Runs a Jmeter load test in the cloud. Achieves 3 objectives:
 
 <h3> Quick Link(s): </h3>
 
-*  [Packge Usage and more info.](https://gitlab.nordstrom.com/InventoryManagement/spartans/jmeter_cloud/-/wikis/home) - read about how to use the package and how to avoid common pitfalls
+*  [Packge Usage and more info.](https://github.com/KirtimanS/Jmeter-Cloud/wiki) - read about how to use the package and how to avoid common pitfalls
 
 <h2>Getting Started</h2>
 <h3>Prerequisites</h3>
