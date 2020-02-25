@@ -57,6 +57,7 @@ Simply clone the source project and unzip it.
 2. Add support for GCP and Azure
 3. Work on Dasboard (grafana etc.) for displaying .jtl log results
 4. Work on Factory Pattern
+5. Add SSM support
 
 <h3> Author(s) </h3>
 
