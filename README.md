@@ -35,8 +35,8 @@ Simply clone the source project and unzip it.
 2. Go to the project Source Directory
 3. Open a terminal
 4. Navigate to the folder where you saved this project
-5. Make sure you're in nordstrom federated aws-cli (Look at the __Common Gotchas__ wiki link above.)
-6. Run Setup.py (fail safe incase you don't have all prereqs)
+5. Make sure you're in federated aws-cli (Look at the __Common Gotchas__ wiki link above.)
+6. Run Setup.py (fail safe in case you don't have all prereqs)
 7. There are two ways to run this:
     1. Go up one level (from project directory) and `python jmeter_cloud` (Assuming project is saved as __jmeter_cloud__ directory and Python3 is installed with __python__ command)
     2. Or `python __main__.py` 
